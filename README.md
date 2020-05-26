@@ -5,16 +5,19 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 | Funcionalidades |
 | ------------- |
 
-| Creación de una API KEY para accesar los servicios de YouTube API v3a |
-| Uso de la documentación de YouTube para obtener información de un canal |
-| Obtener una lista de reproducción |
-| Crear una página en la cual pueda cargar los videos de forma paginada |
-| Usar el Token de respuesta de la api de YouTube |
-| Trabajar con tipado de datos |
-| SweetAlert2 |
-| ng new youtubeApp |
-| https://app.quicktype.io/ |
-
+|Creación de una API KEY para accesar los servicios de YouTube API v3a|
+|Uso de la documentación de YouTube para obtener información de un canal|
+|Obtener una lista de reproducción|
+|Crear una página en la cual pueda cargar los videos de forma paginada|
+|Usar el Token de respuesta de la api de YouTube|
+|Trabajar con tipado de datos|
+|SweetAlert2|
+|ng new youtubeApp|
+|https://app.quicktype.io/|
+|npm install sweetalert2|
+|ng g s services/youtube --skipTests|
+|ng g c pages/home --skipTests|
+|ng g c components/navbar --skipTests|
 
 ## Development server
 
