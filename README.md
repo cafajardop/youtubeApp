@@ -19,6 +19,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 |ng g s services/youtube --skipTests|
 |ng g c pages/home --skipTests|
 |ng g c components/navbar --skipTests|
+|https://developers.google.com/youtube/v3/docs|
+|https://www.youtube.com/channel/UCuaPTYj15JSkETGnEseaFFg|
+
 
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
