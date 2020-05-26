@@ -11,13 +11,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 |Crear una página en la cual pueda cargar los videos de forma paginada|
 |Usar el Token de respuesta de la api de YouTube|
 |Trabajar con tipado de datos|
-|SweetAlert2|
-|ng new youtubeApp|
-|https://app.quicktype.io/|
-|npm install sweetalert2|
-|ng g s services/youtube --skipTests|
-|ng g c pages/home --skipTests|
-|ng g c components/navbar --skipTests|
+
 
 ## Development server
 
